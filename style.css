@@ -18,3 +18,8 @@
 .flex{
     display: flex;
 }
+.you{
+    background-color: yellow;
+    padding-right: 80px;
+    margin: 10px;
+}
